@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Brandon, a recent Computer Science graduate from UofT interested in ML research around large language models (LLMs). This includes areas such as AI safety and alignment, prompt engineering, and emergent properties. Some lines of work I find interesting are Jason Wei's papers on prompt engineering such as: [chain-of-thought prompting](https://arxiv.org/abs/2201.11903), [least-to-most prompting](https://arxiv.org/abs/2205.10625) and [self-consistency](https://arxiv.org/abs/2203.11171).
-
-
+I'm Brandon, a recent Computer Science graduate from UofT interested in ML research around large language models (LLMs). This includes areas such as AI safety and alignment, prompt engineering, and emergent properties. Some lines of work I find interesting are:
+- Jason Wei's papers on prompt engineering such as: [chain-of-thought prompting](https://arxiv.org/abs/2201.11903), [least-to-most prompting (https://arxiv.org/abs/2205.10625) and [self-consistency](https://arxiv.org/abs/2203.11171).
