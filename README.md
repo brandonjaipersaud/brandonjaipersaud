@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Brandon, a recent Computer Science graduate from UofT interested broadly interested in deep learning research. Below are some of my repository highlights ranked from greatest to least significant. 
+I'm Brandon, a recent Computer Science graduate from UofT broadly interested in deep learning research. Below are some of my repository highlights ranked from greatest to least significant. 
