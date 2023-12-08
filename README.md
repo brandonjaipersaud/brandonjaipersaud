@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Brandon, an AI Safety research intern at the Vector Institute of AI
+AI Safety research intern at the Vector Institute of AI
